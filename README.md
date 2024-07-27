@@ -29,8 +29,6 @@
  
 
 
-
-
 ## About Saddam Mart
 ![Naw7hEYdSVewyUoxgyv6QA-removebg-preview](https://github.com/user-attachments/assets/96e302fc-3c0f-450c-b506-2ac0b365bdac)
 
@@ -41,6 +39,7 @@ The company operates numerous stores across various cities, including Hyderabad,
 Saddam Mart is committed to providing quality products at competitive prices, ensuring customer satisfaction through a seamless shopping experience. The company's mission is to become a leading retail destination, offering a diverse product portfolio and excellent customer service.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 
 ## About the Project
 
@@ -49,6 +48,7 @@ This project involves the creation of a comprehensive retail sales dashboard for
 By leveraging data visualization techniques, the dashboard aims to help stakeholders make informed decisions, optimize inventory management, and enhance sales strategies. The project will utilize historical sales data to identify trends, patterns, and opportunities for growth.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 
 ## Stakeholders' Requests
 
@@ -65,6 +65,8 @@ The stakeholders at Saddam Mart have specific requests for this project:
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
+[🔁Home](#table-of-contents)
+
 ## Project Objective
 The primary objective of this project is to create an interactive and insightful dashboard that provides a comprehensive view of Saddam Mart's retail operations. The dashboard will enable stakeholders to:
 
@@ -74,6 +76,8 @@ The primary objective of this project is to create an interactive and insightful
  * Make data-driven decisions to enhance sales strategies, inventory management, and customer satisfaction.
  * Optimize operational efficiency by identifying areas for improvement.
 
+[🔁Home](#table-of-contents)
+
 ## Tools Used
 To achieve the project objectives, the following tools and technologies will be utilized:
 
@@ -81,6 +85,7 @@ To achieve the project objectives, the following tools and technologies will be 
  * **Excel:** For initial data cleaning, transformation, and analysis.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 
 ## About the Dataset
 For this project, I have been provided with a comprehensive retail sales dataset from Saddam Mart. The dataset is in CSV format and contains sales data spanning from January 3, 2019, to December 30, 2022. This extensive dataset consists of 10,922 rows, capturing various aspects of retail transactions.
@@ -93,6 +98,7 @@ Here are some sample entries from the dataset:
 ![Screenshot 2024-07-27 223821](https://github.com/user-attachments/assets/7dc34fae-8962-49c1-8b6c-5ba6ebfe60d3)
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 
 ## ✨Dashboard Style Credit
 This dashboard is inspired by the Global Data 365 Sales Analysis Dashboard. The design, layout, and visualization techniques have been influenced by the effective and insightful presentation style of the Global Data 365 team. By adopting their approach, the goal is to create a user-friendly and comprehensive dashboard that provides clear and actionable insights into Saddam Mart's retail sales data.
@@ -100,6 +106,7 @@ This dashboard is inspired by the Global Data 365 Sales Analysis Dashboard. The 
 For those interested in exploring the original content and gaining further insights into the design principles and functionalities of the Global Data 365 Sales Analysis Dashboard, you can watch their video through this link: https://youtu.be/qBVLotvgQHE?si=brbAEl2CmVyN5qMw
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 
 ## Dashboard Overview
 The dashboard is structured into three main pages, each addressing specific objectives and user requests:
@@ -113,12 +120,14 @@ This section dives into product-level details, highlighting top-performing produ
 #### 3. Regional Sales Analysis: 
 This page focuses on geographic performance, showing sales distribution across different regions, top regions by sales, and regional sales trends.
 
+[🔁Home](#table-of-contents)
 
 # Detailed Explanation:
 
 Let's break down each section of the Retail Sales Dashboard, explaining the insights provided by each visual in detail.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+[🔁Home](#table-of-contents)
 ## Page 1: Overview:
 ![Screenshot 2024-07-26 174325](https://github.com/user-attachments/assets/f60e40dd-0cac-45c2-b8a9-9bc272a74c97)
 
@@ -132,6 +141,8 @@ This metric indicates the total number of receipts, i.e., the total number of tr
 
 The total sales amounting to $13.4 million represents the gross revenue generated from all transactions. This is a key performance indicator that reflects the overall business performance.
 
+[🔁Home](#table-of-contents)
+
 #### 3. Quantity (44,722):
 
 The total quantity of items sold, 44,722, highlights the volume of products sold. This helps in understanding the demand and sales volume across different items.
@@ -144,6 +155,8 @@ The total cost, which is $11.3 million, represents the expenditure incurred to a
 
 The profit metric of $2.1 million shows the net earnings after deducting costs from sales. This is a critical measure of the business's profitability.
 
+[🔁Home](#table-of-contents)
+
 #### 6. AVG Sales ($1230):
 
 The average sales per transaction amount to $1,230. This helps in understanding the average transaction value, indicating customer spending behavior.
@@ -152,6 +165,8 @@ The average sales per transaction amount to $1,230. This helps in understanding 
 **Insights:**
  * This bar chart visualizes monthly sales figures. March shows a significant peak in sales, indicating a possible seasonal trend or successful marketing campaign during that month.
  * November and December also show high sales, which could be attributed to holiday season shopping.
+
+[🔁Home](#table-of-contents)
 
 ### 3. Cost and Profit by Month
 **Insights:**
@@ -170,6 +185,8 @@ This bar chart lists the top five stores by their sales performance:
 
 These stores are the top revenue generators, highlighting their significance in the overall business performance.
 
+[🔁Home](#table-of-contents)
+
 ### 5. Sales by Payment Type
 **Insights:**
 This pie chart shows the distribution of sales by different payment methods:
@@ -181,6 +198,8 @@ This pie chart shows the distribution of sales by different payment methods:
  * NA (Not Available): $0.33M
 
 Net Banking and Debit Card are the most preferred payment methods, suggesting a trend towards digital payments among customers.
+
+[🔁Home](#table-of-contents)
 
 ### 6. Top 5 Items by Sales
 **Insights:**
@@ -198,6 +217,8 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
+[🔁Home](#table-of-contents)
+
 ## Page 2: Store Sales Analysis:
 ![Screenshot 2024-07-26 174507](https://github.com/user-attachments/assets/50995119-f3a5-4a62-a3ec-a20dd9baa7a7)
 
@@ -208,6 +229,8 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
  * Cost $11.3M
  * Profit $2.1M
  * Total Store: 21
+
+[🔁Home](#table-of-contents)
 
 ### 2. Sales by Store
 
@@ -220,6 +243,8 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
  * STCBE-3 Regional Store de fashion Coimbatore: $0.89M
 
 **Explanation:** The chart helps identify the most profitable stores. This information can be used to analyze what strategies are working in these top-performing stores, which can then be implemented in other locations to boost their performance.
+
+[🔁Home](#table-of-contents)
 
 ### 3. Sales by Company
 
@@ -243,6 +268,8 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
 
 **Explanation:** This chart indicates which cities generate the most revenue, providing insights into regional performance. It helps in identifying key markets and potential areas for expansion.
 
+[🔁Home](#table-of-contents)
+
 ### 5. Detailed Table of Sales by Store
 
 **Insight:** This table provides detailed information on sales, quantity, profit, and receipts for each store. For instance:
@@ -263,10 +290,13 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
 
 Overall, the page provides a comprehensive overview of retail sales performance, including key metrics, store and company performance, and regional sales distribution. These insights enable stakeholders to make informed decisions to drive business growth and efficiency.
 
+[🔁Home](#table-of-contents)
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Page 3: Item Sales Analysis
 ![Screenshot 2024-07-27 202414](https://github.com/user-attachments/assets/b76119dd-8465-4555-ac78-73794571356a)
+
+[🔁Home](#table-of-contents)
 
 ### 1. KPI's
  * Receipt: 2930
@@ -286,6 +316,8 @@ This bar chart ranks individual items based on their sales performance. The top-
 
 * **Canon imageCLASS 2200 Advanced ($253.4K):** With sales of $253.4K, this technology product is among the top sellers, indicating strong interest in office supplies and equipment.
 
+[🔁Home](#table-of-contents)
+
 ### 3. Sales by Item Category
 
 This bar chart visualizes sales performance across different item categories, such as Technology, Furniture, Office Supplies, None-Food Items, and Food Items.
@@ -295,6 +327,8 @@ This bar chart visualizes sales performance across different item categories, su
  * **Furniture ($4.0M)**: Furniture is another high-performing category, with $4.0M in sales. This indicates a significant demand for home and office furniture, suggesting potential for growth in this segment.
 
  * **Office Supplies ($3.8M):** Office supplies also show strong performance, with $3.8M in sales, highlighting their steady demand among consumers and businesses alike.
+
+[🔁Home](#table-of-contents)
 
 ### 4. Sales by Item Sub Category
 
@@ -306,6 +340,8 @@ This bar chart breaks down sales performance within specific sub-categories, suc
 
  * **Storage and Home Care ($1.0M each):** Storage and Home Care products also generate significant sales, indicating their importance in meeting customer needs for organization and home maintenance.
 
+[🔁Home](#table-of-contents)
+
 ### 5. Sales by Item Segment
 
 This pie chart displays sales distribution across different market segments: Consumer, Corporate, and Home Office.
@@ -316,6 +352,8 @@ This pie chart displays sales distribution across different market segments: Con
 
  * **Home Office Segment ($2.22M):** The Home Office segment contributes $2.22M in sales, reflecting the growing trend of remote work and the need for home office supplies.
 
+[🔁Home](#table-of-contents)
+
 ### 6. Unsold Items
 
 This table lists items that remain unsold, providing details on the count of unsold units for each product. For example:
@@ -325,10 +363,14 @@ This table lists items that remain unsold, providing details on the count of uns
 
 Understanding unsold items helps in identifying slow-moving products and taking corrective actions, such as promotions or inventory adjustments, to minimize unsold stock and optimize product turnover.
 
+[🔁Home](#table-of-contents)
+
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Page 4: Transaction Based Analysis
 ![Screenshot 2024-07-27 202432](https://github.com/user-attachments/assets/25ff0a44-12c0-4cba-901c-721607445379)
+
+[🔁Home](#table-of-contents)
 
 ### 1. KPI's
  * Receipt: 2930
@@ -344,6 +386,8 @@ The bar chart with an overlay line graph illustrates the monthly distribution of
 
 The chart shows that certain months, such as **March, August, October, and December**, have **higher transaction volumes**, indicating peak sales periods. These insights are valuable for planning inventory, marketing campaigns, and staffing needs to maximize sales during high-demand periods.
 
+[🔁Home](#table-of-contents)
+
 ### 3. Transaction by Company
 
 This bar chart ranks companies based on the number of transactions they have generated. The companies are listed from the highest to the lowest number of transactions.
@@ -355,6 +399,8 @@ This bar chart ranks companies based on the number of transactions they have gen
  * **KP Group of Company (1925):** Ranking third, KP Group has 1925 transactions, indicating its competitive performance in the market.
 
 These insights help in understanding which companies are driving the most transactions, enabling strategic partnerships and targeted business strategies to enhance sales performance.
+
+[🔁Home](#table-of-contents)
 
 ### 4. Transaction by Product
 
@@ -368,6 +414,8 @@ This bar chart visualizes the number of transactions attributed to specific prod
 
 These insights assist in identifying popular products and managing inventory accordingly to meet customer demand and maximize sales.
 
+[🔁Home](#table-of-contents)
+
 ### 5. Transaction by Store
 
 This table lists stores along with their corresponding sales, quantity, transactions, receipts, and profit figures. It provides a comprehensive view of each store's performance.
@@ -380,15 +428,21 @@ This table lists stores along with their corresponding sales, quantity, transact
 
 These insights enable businesses to evaluate individual store performance, identify top-performing locations, and implement strategies to improve underperforming stores.
 
+[🔁Home](#table-of-contents)
+
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Conclusion
 This retail sales dashboard for Saddam Mart provides a comprehensive analysis of store performance, item sales, transaction analysis, and overall retail sales. By leveraging the power of data visualization in Power BI, the dashboard enables stakeholders to make informed decisions, optimize inventory management, and enhance sales strategies. The insights gained from this dashboard will drive business growth, improve customer satisfaction, and ensure operational efficiency.
 
+[🔁Home](#table-of-contents)
+
 ### ⚠⚠ Disclaimer: 
 This project is a work of fiction and created for educational purposes. Any resemblance to actual persons, companies, or events is purely coincidental. The data used in this project is fictional and does not represent any real-life data.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+[🔁Home](#table-of-contents)
 
 ## Learning from the Project
  * **Enhanced Data Analysis Skills:** Working on this comprehensive retail sales dashboard project has significantly improved my data analysis skills. By analyzing various metrics like total sales, costs, profits, and understanding the sales trends across different stores and item categories, I have gained deeper insights into how to interpret and present data effectively.
@@ -397,12 +451,16 @@ This project is a work of fiction and created for educational purposes. Any rese
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
+[🔁Home](#table-of-contents)
+
 ## How it Helps Stakeholders
  * **Informed Decision-Making:** The dashboard provides stakeholders with detailed insights into sales performance, store efficiency, and product demand. This enables them to make data-driven decisions, optimize inventory management, and enhance sales strategies.
 
  * **Operational Efficiency:** By identifying top-performing stores, popular products, and preferred payment methods, stakeholders can streamline operations, focus on high-demand areas, and improve overall business efficiency, ultimately driving growth and customer satisfaction.
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+[🔁Home](#table-of-contents)
 
 ## How you can help me:
 
@@ -414,6 +472,8 @@ Looking forward to connecting with you all!
 
 #
 
+[🔁Home](#table-of-contents)
+
 ### Created and Presented by-
 
 Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
@@ -421,4 +481,4 @@ Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/sadd
 Location: India
 
 THE END
-
+[🔁Home](#table-of-contents)
