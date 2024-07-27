@@ -15,7 +15,7 @@ The company operates numerous stores across various cities, including Hyderabad,
 
 Saddam Mart is committed to providing quality products at competitive prices, ensuring customer satisfaction through a seamless shopping experience. The company's mission is to become a leading retail destination, offering a diverse product portfolio and excellent customer service.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## About the Project
 
@@ -23,7 +23,7 @@ This project involves the creation of a comprehensive retail sales dashboard for
 
 By leveraging data visualization techniques, the dashboard aims to help stakeholders make informed decisions, optimize inventory management, and enhance sales strategies. The project will utilize historical sales data to identify trends, patterns, and opportunities for growth.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Stakeholders' Requests
 
@@ -38,7 +38,7 @@ The stakeholders at Saddam Mart have specific requests for this project:
  * **7. Payment Methods:** Analysis of sales by different payment types (cash, credit card, debit card, etc.).
  * **8. Custom Insights:** Any additional insights that can help optimize operations and sales strategies.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Project Objective
 The primary objective of this project is to create an interactive and insightful dashboard that provides a comprehensive view of Saddam Mart's retail operations. The dashboard will enable stakeholders to:
@@ -55,7 +55,7 @@ To achieve the project objectives, the following tools and technologies will be 
  * **Power BI:** For data visualization and dashboard creation, providing interactive and dynamic insights.
  * **Excel:** For initial data cleaning, transformation, and analysis.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## About the Dataset
 For this project, I have been provided with a comprehensive retail sales dataset from Saddam Mart. The dataset is in CSV format and contains sales data spanning from January 3, 2019, to December 30, 2022. This extensive dataset consists of 10,922 rows, capturing various aspects of retail transactions.
@@ -67,13 +67,14 @@ Here are some sample entries from the dataset:
 #### Data Description
 ![Screenshot 2024-07-27 223821](https://github.com/user-attachments/assets/7dc34fae-8962-49c1-8b6c-5ba6ebfe60d3)
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## ✨Dashboard Style Credit
 This dashboard is inspired by the Global Data 365 Sales Analysis Dashboard. The design, layout, and visualization techniques have been influenced by the effective and insightful presentation style of the Global Data 365 team. By adopting their approach, the goal is to create a user-friendly and comprehensive dashboard that provides clear and actionable insights into Saddam Mart's retail sales data.
 
 For those interested in exploring the original content and gaining further insights into the design principles and functionalities of the Global Data 365 Sales Analysis Dashboard, you can watch their video through this link: https://youtu.be/qBVLotvgQHE?si=brbAEl2CmVyN5qMw
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Dashboard Overview
 The dashboard is structured into three main pages, each addressing specific objectives and user requests:
@@ -92,7 +93,7 @@ This page focuses on geographic performance, showing sales distribution across d
 
 Let's break down each section of the Retail Sales Dashboard, explaining the insights provided by each visual in detail.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 ## Page 1: Overview:
 ![Screenshot 2024-07-26 174325](https://github.com/user-attachments/assets/f60e40dd-0cac-45c2-b8a9-9bc272a74c97)
 
@@ -170,7 +171,7 @@ These items are the highest contributors to sales, indicating their popularity a
 
 The dashboard effectively provides a comprehensive overview of the retail sales performance, highlighting key metrics, sales trends, cost and profit analysis, top-performing stores and items, and payment preferences. This enables stakeholders to make informed decisions to drive business growth and efficiency.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Page 2: Store Sales Analysis:
 ![Screenshot 2024-07-26 174507](https://github.com/user-attachments/assets/50995119-f3a5-4a62-a3ec-a20dd9baa7a7)
@@ -237,7 +238,7 @@ The dashboard effectively provides a comprehensive overview of the retail sales 
 
 Overall, the page provides a comprehensive overview of retail sales performance, including key metrics, store and company performance, and regional sales distribution. These insights enable stakeholders to make informed decisions to drive business growth and efficiency.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Page 2: Item Sales Analysis
 ![Screenshot 2024-07-27 202414](https://github.com/user-attachments/assets/b76119dd-8465-4555-ac78-73794571356a)
@@ -299,7 +300,7 @@ This table lists items that remain unsold, providing details on the count of uns
 
 Understanding unsold items helps in identifying slow-moving products and taking corrective actions, such as promotions or inventory adjustments, to minimize unsold stock and optimize product turnover.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Page 2: Transaction Based Analysis
 ![Screenshot 2024-07-27 202432](https://github.com/user-attachments/assets/25ff0a44-12c0-4cba-901c-721607445379)
@@ -354,7 +355,7 @@ This table lists stores along with their corresponding sales, quantity, transact
 
 These insights enable businesses to evaluate individual store performance, identify top-performing locations, and implement strategies to improve underperforming stores.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Conclusion
 This retail sales dashboard for Saddam Mart provides a comprehensive analysis of store performance, item sales, transaction analysis, and overall retail sales. By leveraging the power of data visualization in Power BI, the dashboard enables stakeholders to make informed decisions, optimize inventory management, and enhance sales strategies. The insights gained from this dashboard will drive business growth, improve customer satisfaction, and ensure operational efficiency.
@@ -362,21 +363,21 @@ This retail sales dashboard for Saddam Mart provides a comprehensive analysis of
 ### ⚠⚠ Disclaimer: 
 This project is a work of fiction and created for educational purposes. Any resemblance to actual persons, companies, or events is purely coincidental. The data used in this project is fictional and does not represent any real-life data.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Learning from the Project
  * **Enhanced Data Analysis Skills:** Working on this comprehensive retail sales dashboard project has significantly improved my data analysis skills. By analyzing various metrics like total sales, costs, profits, and understanding the sales trends across different stores and item categories, I have gained deeper insights into how to interpret and present data effectively.
 
  * **Advanced Dashboard Design Proficiency:** Creating this multi-page, interactive Power BI dashboard has honed my dashboard design skills. I have learned to create user-friendly, visually appealing dashboards that provide stakeholders with valuable insights, facilitating informed decision-making and strategic planning.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## How it Helps Stakeholders
  * **Informed Decision-Making:** The dashboard provides stakeholders with detailed insights into sales performance, store efficiency, and product demand. This enables them to make data-driven decisions, optimize inventory management, and enhance sales strategies.
 
  * **Operational Efficiency:** By identifying top-performing stores, popular products, and preferred payment methods, stakeholders can streamline operations, focus on high-demand areas, and improve overall business efficiency, ultimately driving growth and customer satisfaction.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## How you can help me:
 
