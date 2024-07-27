@@ -1,4 +1,4 @@
-# Saddam Mart Retail Sales Analysis Dashboard
+
 
 ## Created & Analyzed by Saddam Ansari @Data and Reporting Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
@@ -18,8 +18,15 @@
  9. [Detailed Explanation](#detailed-explanation)
      * [Page 1: Overview](#page-1-overview)
      * [Page 2: Store Sales Analysis](#page-2-store-sales-analysis)
-     * [
- 10. 
+     * [Page 3: Item Sales Analysis](#page-3-item-sales-analysis)
+     * [Page 4: Transaction Based Analysis](#page-4-transaction-based-analysis)
+ 10. [Conclusion](conclusion)
+ 11. [⚠⚠ Disclaimer](#-disclaimer)
+ 12. [Learning from the Project](#learning-from-the-project)
+ 13. [How it Helps Stakeholders](#how-it-helps-stakeholders)
+ 14. [How you can help me](#how-you-can-help-me)
+ 15. [The End](#created-and-presented-by-)
+ 
 
 
 
