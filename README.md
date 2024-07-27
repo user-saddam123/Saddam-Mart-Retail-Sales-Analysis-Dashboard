@@ -6,6 +6,24 @@
 
 #
 
+## Table of Contents:
+ 1. [About Saddam Mart](#about-saddam-mart)
+ 2. [About the Project](#about-the-project)
+ 3. [Stakeholders' Requests](#stakeholders-requests)
+ 4. [Project Objective](#project-objective)
+ 5. [Tools Used](#tools-used)
+ 6. [About the Dataset](#about-the-dataset)
+ 7. [Dashboard Style Credit](#dashboard-style-credit)
+ 8. [Dashboard Overview](#dashboard-overview)
+ 9. [Detailed Explanation](#detailed-explanation)
+     * [Page 1: Overview](#page-1-overview)
+     * [Page 2: Store Sales Analysis](#page-2-store-sales-analysis)
+     * [
+ 10. 
+
+
+
+
 ## About Saddam Mart
 ![Naw7hEYdSVewyUoxgyv6QA-removebg-preview](https://github.com/user-attachments/assets/96e302fc-3c0f-450c-b506-2ac0b365bdac)
 
@@ -240,7 +258,7 @@ Overall, the page provides a comprehensive overview of retail sales performance,
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
-## Page 2: Item Sales Analysis
+## Page 3: Item Sales Analysis
 ![Screenshot 2024-07-27 202414](https://github.com/user-attachments/assets/b76119dd-8465-4555-ac78-73794571356a)
 
 ### 1. KPI's
@@ -302,7 +320,7 @@ Understanding unsold items helps in identifying slow-moving products and taking 
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
-## Page 2: Transaction Based Analysis
+## Page 4: Transaction Based Analysis
 ![Screenshot 2024-07-27 202432](https://github.com/user-attachments/assets/25ff0a44-12c0-4cba-901c-721607445379)
 
 ### 1. KPI's
